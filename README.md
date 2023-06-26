@@ -1,8 +1,11 @@
 # Going Home
 This is a pygame project I made about landing rockets I made in my Grade 10 CS course at school. There are three levels and three ships. This game was inspired by SpaceX's reusable rockets, NASA's moon lander, and ongoing plans to bring people to Mars.
 
-It includes a .exe build, but you're probably better off running the GoingHome.py file. Feel free to download and play, but you will need the pygame library installed.
+## How to Run
+Feel free to download the repo and play! I've included a GoingHome.exe executable; if that doesn't work, run the GoingHome.py file.
+Make sure you have the pygame v2.0.1 installed! Run ```python3 -m pip install pygame==2.0.1``` in terminal.
 
+## Screenshots
 ![image](https://user-images.githubusercontent.com/87958079/204110878-5ec5d6a6-93c3-45ba-9fcb-b0d7d93ec37d.png)
 ![image](https://user-images.githubusercontent.com/87958079/204110880-c3ebff84-3153-4b7d-9ba2-d514fd4b3484.png)
 ![image](https://user-images.githubusercontent.com/87958079/204110883-3702e214-05fd-4e67-9d2f-695449172c10.png)
